@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  statera:
+    image: statera
+    container_name: statera
+    ports:
+     - "443:443"
+     - "80:80"
+    volumes:
+     - /etc/statera:/etc/statera
