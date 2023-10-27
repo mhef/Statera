@@ -11,7 +11,7 @@ _________________
 
 ## Paper (portuguese)
 
-[Statera: Um balanceador de carga rápido e flexível paraaplicações HTTP na nuvem](https://sol.sbc.org.br/index.php/wscad/article/view/21948/21771)
+[Statera: Um balanceador de carga rápido e flexível para aplicações HTTP na nuvem](https://sol.sbc.org.br/index.php/wscad/article/view/21948/21771)
 
 ## Requirements to build from source
 Go ^1.18 or Docker 
