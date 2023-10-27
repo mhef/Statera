@@ -3,11 +3,15 @@
 </p>
 
 # Statera
-Statera is a L7 Load Balancer that target the HTTP protocol.
+Statera is a L7 Load Balancer for the HTTP protocol.
 
 **Authors:** Matheus H. Freitas and Vitor B. C. Souza 
 
 _________________
+
+## Paper (portuguese)
+
+[Statera: Um balanceador de carga rápido e flexível paraaplicações HTTP na nuvem](https://sol.sbc.org.br/index.php/wscad/article/view/21948/21771)
 
 ## Requirements to build from source
 Go ^1.18 or Docker 
